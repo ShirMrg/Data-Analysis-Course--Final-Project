@@ -1,1 +1,2 @@
 # Data-Analysis-Course--Final-Project
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShirMrg/Data-Analysis-Course--Final-Project/master?filepath=http%3A%2F%2Flocalhost%3A8888%2Flab%2Fworkspaces%2Fauto-F%2Ftree%2F%25D7%25A2%25D7%2591%25D7%2595%25D7%2593%25D7%25AA%2520%25D7%2592%25D7%259E%25D7%25A8%2520%25D7%25A0%25D7%2599%25D7%25AA%25D7%2595%25D7%2597%2520%25D7%25A0%25D7%25AA%25D7%2595%25D7%25A0%25D7%2599%25D7%259D.ipynb)
